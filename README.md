@@ -1,6 +1,6 @@
 # 陳哲偉 Ｗally Chen
 * Email: dgf9900@gmail.com
-* <a href="https://codepen.io/CWEI/" target="_blank">Codepen</a>
+* <a href="https://codepen.io/CWEI/" target="_blank">codepen</a>
 
 <br>
 
@@ -29,7 +29,7 @@
  * 專案網站視覺設計與製作
  * 活動網站製作
  
-<hr>
+<br>
 
 ## 專業項目
 
@@ -38,7 +38,7 @@
   * 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡，期望自己每天都在進步
   * 主動積極，具跨團隊溝通合作能力
 
-<hr>
+<br>
 
 ## 專業技能
 
@@ -61,15 +61,15 @@
   * 介面與流程規劃/優化
   * wordpress應用
   
-<hr>
+<br>
 
 ## 專案與作品
 
 ### 平台
 
-  *<a href="http://www.ttpass.com/zh-tw" target="_blank">TTPASS旅遊平台</a>
-  *<a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台</a>
-  *<a href="http://cerecsasia.com/" target="_blank">cerecsasia牙醫教學平台</a>
+  * <a href="http://www.ttpass.com/zh-tw" target="_blank">TTPASS旅遊平台</a>
+  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台</a>
+  * <a href="http://cerecsasia.com/" target="_blank">cerecsasia牙醫教學平台</a>
 
 ### 官方網站
 

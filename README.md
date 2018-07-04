@@ -2,7 +2,7 @@
 * Email: dgf9900@gmail.com
 * <a href="https://codepen.io/CWEI/" target="_blank">Codepen</a>
 
-<hr>
+<br>
 
 ## 工作經歷
 

@@ -109,11 +109,11 @@
     * RWD網站設計
     * 美術效果特效程式開發
     
-  * <a href="http://www.ipex-live.com/main" target="_blank">IPex官網</a>
+  * <a href="http://www.ipex-live.com/" target="_blank">IPex官網</a>
   
     * RWD網站設計
     * 美術效果特效程式開發
-    * 第三方API串接
+    * 第三方API串接(包含 Map、Youtube、Facebook)
    
   * <a href="＃" target="_blank">eyecandle官網</a>
   

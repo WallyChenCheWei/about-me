@@ -76,14 +76,6 @@
     * 前台行程商品與上稿操作介面
     * 留言訊息介面
     * 旅遊體驗行程購買介面
-    
-  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a>/<a href="https://wallychenchewei.github.io/flbk2/build/" target="_blank">介面連結</a>
- 
-    * 會員系統
-    * 行程規劃介面
-    * 訂房購買介面
-    * 行程購買介面
-    * 部落格文章與新聞介面
   
   * <a href="http://cerecsasia.com/" target="_blank">cerecsasia牙醫教學平台</a>
   
@@ -92,6 +84,14 @@
     * 牙醫課程介面
     * 課程影音介面
     * 討論區
+    
+  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a>/<a href="https://wallychenchewei.github.io/flbk2/build/" target="_blank">介面連結</a>
+ 
+    * 會員系統
+    * 行程規劃介面
+    * 訂房購買介面
+    * 行程購買介面
+    * 部落格文章與新聞介面
 
 ### 官方網站
 

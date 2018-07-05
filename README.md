@@ -78,8 +78,7 @@
     * 留言訊息介面
     * 旅遊體驗行程購買介面
     
-  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a>
-    <a href="＃="_blank">非來不可旅遊平台(介面)</a>
+  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a><a href="http://www.flbk.com.tw/" target="_blank">介面</a>
  
     * 會員系統
     * 行程規劃介面

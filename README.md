@@ -1,6 +1,8 @@
 # 陳哲偉 Ｗally Chen
 * Email: dgf9900@gmail.com
+* Phone: 0952818572
 * <a href="https://codepen.io/CWEI/" target="_blank">codepen</a>
+* <a href="https://github.com/WallyChenCheWei" target="_blank">github</a>
 
 <br>
 

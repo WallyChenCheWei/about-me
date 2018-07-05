@@ -78,7 +78,7 @@
     * 留言訊息介面
     * 旅遊體驗行程購買介面
     
-  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a><a href="https://wallychenchewei.github.io/flbk2/build/" target="_blank">介面設計</a>
+  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a>/<a href="https://wallychenchewei.github.io/flbk2/build/" target="_blank">介面連結</a>
  
     * 會員系統
     * 行程規劃介面

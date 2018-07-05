@@ -48,9 +48,9 @@
 ### 前端
 
   * HTML, SCSS, RWD, Bootstrap 
-  * JavaScript(ES5、ES6), jQuery
+  * JavaScript (ES5、ES6), jQuery
   * build tools (Gulp) 
-  * 版本控制工具操作（Git）
+  * 版本控制工具操作(Git) 
   * 具備跨平台、跨瀏覽器問題解決能力
   * 熟悉圖像處理 SVG , Sprite
   * SPA 的構建方式，有 Vue.js 使用經驗
@@ -58,9 +58,9 @@
  
 ### UI / Website Design 
 
-  * UI/UX 視覺表達能力 
+  * UI / UX 視覺表達能力 
   * 熟悉網頁製作技巧，掌控整體設計風格，Layout規劃
-  * 具 Wireframe/Prototype 設計能力
+  * 具 Wireframe / Prototype 設計能力
   * 介面與流程規劃與優化
   * wordpress 應用
   
@@ -123,8 +123,6 @@
     * 商品預購購物車
 
   * <a href="http://ge-young.com/" target="_blank">吉羊文創官網</a>
-  
-   * RWD網站設計
    
   
 ### 活動網站

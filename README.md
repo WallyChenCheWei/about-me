@@ -70,17 +70,62 @@
 
 ### 平台
 
-  * <a href="http://www.ttpass.com/zh-tw" target="_blank">TTPASS旅遊平台</a>
-  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台</a>
+  * <a href="http://www.ttpass.com/zh-tw" target="_blank">TTPASS旅遊平台(開發中)</a>  
+  
+    * RWD網站設計
+    * 會員系統介面
+    * 前台行程商品與上稿操作介面
+    * 留言訊息介面
+    * 旅遊體驗行程購買介面
+    
+  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a>
+    <a href="＃="_blank">非來不可旅遊平台(介面)</a>
+ 
+    * 會員系統
+    * 行程規劃介面
+    * 訂房購買介面
+    * 行程購買介面
+    * 部落格文章與新聞介面
+  
   * <a href="http://cerecsasia.com/" target="_blank">cerecsasia牙醫教學平台</a>
+  
+    * RWD網站設計
+    * 會員系統介面
+    * 牙醫課程介面
+    * 課程影音介面
+    * 討論區
 
 ### 官方網站
 
   * <a href="https://i-u.com.tw/preorder/iu-plus" target="_blank">IU-Plus官網</a>
+  
+    * RWD網站設計
+    * 會員系統介面
+    * 商品預購購物車
+    * 序號保固、訂單查詢介面
+    * 視覺設計與規劃
+    
   * <a href="http://www.powerbright.com.tw/" target="_blank">光威數位官網</a>
+  
+    * RWD網站設計
+    * 美術效果特效程式開發
+    
   * <a href="http://www.ipex-live.com/main" target="_blank">IPex官網</a>
+  
+    * RWD網站設計
+    * 美術效果特效程式開發
+    * 第三方API串接
+   
   * <a href="＃" target="_blank">eyecandle官網</a>
+  
+    * RWD網站設計
+    * 美術效果特效程式開發
+    * 商品預購購物車
+
   * <a href="http://ge-young.com/" target="_blank">吉羊文創官網</a>
+  
+   * RWD網站設計
+   
   
 ### 活動網站
 

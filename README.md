@@ -85,7 +85,7 @@
     * 課程影音介面
     * 討論區
     
-  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a>/<a href="https://wallychenchewei.github.io/flbk2/build/" target="_blank">介面連結</a>
+  * <a href="http://www.flbk.com.tw/" target="_blank">非來不可旅遊平台(已關站)</a>/<a href="https://www.behance.net/gallery/67634545/flbk" target="_blank">介面樣式連結</a>
  
     * 會員系統
     * 行程規劃介面

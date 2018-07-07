@@ -117,15 +117,16 @@
   
 ### 活動網站
 
-  * 碧湖君品活動網站
-  * 群益投信活動網站
-  * 長泛-夏日回憶製造機活動網站
-  * 仙妮蕾德肥胖類型檢測活動網站
+  * <a href="https://www.behance.net/gallery/67632569/eyecandle" target="_blank">eyecandle</a>
+  * <a href="https://www.behance.net/gallery/67630735/everfun" target="_blank">長泛-夏日回憶製造機活動網站</a>
+  * <a href="https://www.behance.net/gallery/67630765/sunrider" target="_blank">仙妮蕾德肥胖類型檢測活動網站</a>
+  * <a href="https://www.behance.net/gallery/67630087/BiHu" target="_blank">碧湖君品活動網站</a>
+  * <a href="https://www.behance.net/gallery/67629753/capitalfund" target="_blank">群益投信活動網站</a>
+
   
 ### 曾執行過的專案
   
   * 大禹防災官網
-  * eyecandle官網
   * 吉羊文創官網
   * 國家公園數位典藏網站
   * 新市鎮都市計畫典藏網建置
